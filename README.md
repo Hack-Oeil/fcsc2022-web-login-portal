@@ -3,7 +3,7 @@
 Vous travaillez dans une petite entreprise où un employé, Mr. Martin, a récemment été licencié. Le responsable informatique a constaté des intrusions dans le portail de login et est persuadé que Mr. Martin a fait un sale coup avant de partir en modifiant le code source de l’application. Tous les mots de passe des utilisateurs ont été changés, mais les intrusions continuent. On vous demande de comprendre comment.
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Login Portal](https://hackropole.fr/fr/challenges/web/fcsc2022-web-login-portal/)
 
